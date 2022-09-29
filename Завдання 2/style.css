@@ -1,0 +1,16 @@
+body{
+    opacity: 0.3;
+    background-color: rgba(0, 0, 0, 0.3)
+}
+.first-para {
+    color: #002982;
+}
+.second-para {
+    color: rgb(0, 41, 130);
+}
+.third-para {
+    color: hsl(221, 100%, 25%);
+}
+.forth-para {
+    color: rgba(0, 41, 130, 1);
+}

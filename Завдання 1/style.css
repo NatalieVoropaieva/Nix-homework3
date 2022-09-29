@@ -1,0 +1,24 @@
+body{
+    background-image: url(https://thumbs.dreamstime.com/b/spring-summer-season-abstract-nature-background-grass-blue-sky-back-49716369.jpg);
+    background-size: cover;
+}
+.text{
+    font-weight: 300;
+    line-height: 1.5;
+    font-size: 14px;
+}
+.first-para{
+    color: #4B0082;
+}
+.second-para{
+    color: indigo;
+}
+.third-para{
+    color: rgb(75, 0, 130);
+}
+.forth-para{
+    color: hsl(275, 100%, 25%);
+}
+.fifth-para{
+    color: rgba(75, 0, 130, 1);
+}
